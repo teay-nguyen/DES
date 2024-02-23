@@ -1,0 +1,3 @@
+DES encryption algorithm implemented in C++ 
+- takes hex string as input 
+- outputs hex string 
